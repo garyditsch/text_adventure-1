@@ -31,13 +31,6 @@ class Game():
         response = Response()
 
         while True:
-            # Clear Screen
-            # Draw current room (print the text need for room)
-            # Draw response from previous user input
-            # Request user input
-            # Process user input
-            # Test for exit cases (win, lose, user exits)
-
             clear_screen()
             draw("GITHUB ADVENTURES")
             draw("="*60)
